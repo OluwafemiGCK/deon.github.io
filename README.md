@@ -1,15 +1,9 @@
 # Data Analyst 
+A results-driven data analyst with experience using data analytics, business intelligence tools, and financial modelling to support decision-making and improve business performance. Proficient in Power BI, Excel, SQL, and Python, with a strong background in market forecasting, and reporting. Passionate about leveraging data insights to solve complex challenges and drive strategic growth. Currently seeking an entry-level Data Analyst position to apply analytical and technical skills in a dynamic business environment.
 
 ## Education
-Devevelopment Economics, MSc.
-
-## Work Experience
-Data Analyst @ Deon Views & Realty
-•	Prepared and cleaned data for analytical findings and predictions.
-•	Analysed and compiled sales data with Microsoft Excel and Power BI.
-•	Participated in valuing asset in possession of the company.
-•	Gave insight for business decisions through quantitative analysis of collected and clean data.
-•	Observed market trends in the real estate sector through technical analysis, while enabling better decision making.
+Development Economics, MSc.
+Economics, BSc
 
 
 ## Projects.
