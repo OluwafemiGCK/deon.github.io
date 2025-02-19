@@ -1,4 +1,4 @@
-# Data Scientist 
+# Data Analyst 
 
 ## Education
 Devevelopment Economics, MSc.
@@ -12,5 +12,12 @@ Data Analyst @ Deon Views & Realty
 •	Observed market trends in the real estate sector through technical analysis, while enabling better decision making.
 
 
-## Projects
-TITANIC ANALYSIS
+## Projects.
+• DATA CLEANING ON WORLD LAYOFF DATA SET
+• EXPLORATORY DATA ANALYSIS ON WORLD LAYOFF DATA SET
+• TITANIC ANALYSIS
+• BANKNOTE CLASSIFICATION
+• LOAN PREDICTION ANALYSIS
+• FIFA PLAYER ANALYSIS
+
+
